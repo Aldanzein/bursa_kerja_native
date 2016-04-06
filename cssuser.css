@@ -1,0 +1,201 @@
+input:hover		{background-color:#C6D580;}
+input[type="submit"]:hover	{background-color:#6E6C64;}
+input[type="reset"]:hover	{background-color:#6E6C64;}
+input[type="file"]:hover	{background-color:#fff;}
+
+input[type="text"]{
+	width:304px;
+	background-color: white;
+	color: black;}
+	
+input[type="reset"]
+{
+border:1px solid white;
+width: 143px;
+border-radius: 1px;height:55px;background-color:#30A5FF;
+}
+	
+input[type="submit"]{
+border:1px solid white;
+width: 163px;
+border-radius: 1px;height:55px;background-color:#30A5FF;
+}
+
+input[name="logout"]{
+border:1px solid black;
+width: 143px;
+border-radius: 1px;height:55px;background-color:#30A5FF;
+}
+
+input[name="yosha"]{
+border:1px solid white;
+
+}
+
+input {width:104px;border-radius: 2px;height:25px;background-color:#6597EE;
+	border:1px solid white;padding-left:2px;padding-right:2px;margin:1px; color: white;}
+	
+	input[type="file"]{
+
+border: 1px solid white;
+background-color: #fff;
+
+}
+
+	
+	
+#headeratas{
+		position: fixed;
+		float:left;
+		width:99.9%;
+		padding:0px;
+		height:90px;
+		border:1px solid #CCC;
+		background-color: #363b41;
+		
+
+
+	}
+	body{
+		margin:0px;
+		padding:0px;
+		font-family:Arial,Verdana,Century;
+		
+		
+
+	}
+	#wrapper{
+		margin:0 auto;
+		width:1280px;
+		
+	}
+	
+	#header{
+		float:left;
+		width:1290px;
+		height:250px;
+		padding:0px;
+		margin-top:30px;
+		margin-top:120px;
+		
+		
+	}
+	#header .header1{
+		float:left;
+		width:320px;
+		height:544px;
+		background-color:#FFF;
+		padding:3px;
+		border:1px solid #CCC;
+		margin-right:30px;
+		border-top: 5px solid #6597EE;
+		border-bottom: 5px solid #6597EE;
+
+		}
+	#header .header2{
+		float:left;
+		width:914px;
+		height:70px;
+
+		border:1px solid #CCC;
+		margin-left:8px;
+		background-color: #6597EE;
+		
+	}
+
+	
+
+	#project{
+		float:left;
+		width:920px;
+		height:440px;
+		padding:0px;
+		margin-top:-140px;
+		margin-left:357px;
+		margin-bottom: 60px;
+		border: 1px solid #CCC;
+		border-radius: 2px;
+		
+		
+	}
+
+	#footer{
+		float:left;
+		width:99.9%;
+		height: 160px;
+		padding:0px;
+		color: white;
+		margin-top: 40px;
+		background-color: #363B41;
+	}
+	.chat ul {
+	list-style: none;
+	margin: -15px;
+	padding: 15px;
+}
+
+.chat ul li {
+	margin-bottom: 10px;
+	padding: 15px 5px;
+	border-bottom: 1px solid #eee;
+}
+
+.chat ul li.left .chat-body { margin-left: 100px;}
+.chat ul li.right .chat-body { margin-right: 100px;}
+
+.chat ul li .chat-body p {
+	margin: 0;
+}
+
+.chat ul .glyphicon {
+	margin-right: 5px;
+}
+
+.chat .panel-body {
+	overflow-y: scroll;
+	height: 300px;
+}
+
+.chat-body small {
+	margin-left: 5px;
+}
+
+/*Tables*/
+.table {
+	background: #fff;
+}
+
+.fixed-table-container {
+	border: 1px solid #eee;
+}
+
+.fixed-table-container thead th {
+	background: #f7f7f8;
+	border-color: #ddd;
+	color: #5f6468;
+	font-weight: 300;
+	font-size: 16px;
+}
+
+.fixed-table-container tbody td {
+	border: 1px solid #eee;
+}
+
+.fixed-table-container tbody td:last-child {
+	border-right: none;
+}
+
+.table>thead>tr>th {
+	border-bottom: 1px solid #e6e7e8;
+	vertical-align: middle;
+	height: 50px;
+}
+
+.fixed-table-pagination .pagination {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.fixed-table-pagination .pagination-detail {
+	margin-top: 20px;
+}
+
